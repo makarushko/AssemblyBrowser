@@ -1,0 +1,5 @@
+C:\Users\Anna\RiderProjects\AssemblyBrowser\AssemblyBrowserLib\obj\Debug\net5.0\AssemblyBrowserLib.csprojAssemblyReference.cache
+C:\Users\Anna\RiderProjects\AssemblyBrowser\AssemblyBrowserLib\obj\Debug\net5.0\AssemblyBrowserLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\RiderProjects\AssemblyBrowser\AssemblyBrowserLib\obj\Debug\net5.0\AssemblyBrowserLib.AssemblyInfoInputs.cache
+C:\Users\Anna\RiderProjects\AssemblyBrowser\AssemblyBrowserLib\obj\Debug\net5.0\AssemblyBrowserLib.AssemblyInfo.cs
+C:\Users\Anna\RiderProjects\AssemblyBrowser\AssemblyBrowserLib\obj\Debug\net5.0\AssemblyBrowserLib.csproj.CoreCompileInputs.cache
