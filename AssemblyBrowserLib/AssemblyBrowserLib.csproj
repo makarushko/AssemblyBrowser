@@ -6,8 +6,4 @@
         <RootNamespace>AssemblyBrowser</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="format" />
-    </ItemGroup>
-
 </Project>
