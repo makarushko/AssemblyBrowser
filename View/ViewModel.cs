@@ -1,6 +1,8 @@
-﻿namespace View
+﻿using System.ComponentModel;
+
+namespace View
 {
-    public class ViewModel
+    public sealed class ModelView : INotifyPropertyChanged
     {
         
     }
