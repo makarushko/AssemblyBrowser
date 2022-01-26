@@ -79,5 +79,4 @@ namespace AssemblyBrowserLib
         { 
             return type.GetProperties().Select( property => new MemberInfo(PropertiesFormatter.Format(property), ClassFormatter.Format(type))).ToList();} //Instance | Static | Public | NonPublic
     }
-    }
 }
