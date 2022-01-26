@@ -47,5 +47,22 @@ namespace View
             }
         }
         
+        public ICommand OpenFileCommand => new OpenFileCommand(OpenAssembly);
+    
+        private void OpenAssembly()
+        {
+            var fileDialog = new OpenFileDialog
+            {
+                Filter = "Assemblies|*.dll;*.exe", Title = "Select assembly", Multiselect = false
+            };
+                
+            var isOpen = fileDialog.ShowDialog() ;
+                
+            if (isOpen != null && isOpen.Value)
+            {
+                OpenFile = fileDialog.FileName;
+                OnPropertyChanged(nameof(OpenFile));
+            }
+        }
     }
 }
